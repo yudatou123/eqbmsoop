@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class TestService {
 	
 	public String pingSql() {
-		return "select * from 1";
+		return "select * from table1";
 	}
 
 }

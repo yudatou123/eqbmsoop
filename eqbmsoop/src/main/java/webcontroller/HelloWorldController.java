@@ -6,8 +6,6 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import service.TestService;
-
-
 @Controller 
 public class HelloWorldController { 
 	@Autowired
